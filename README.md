@@ -74,11 +74,11 @@ The dataset used in this analysis is the Bank Marketing dataset. The data includ
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Monish-Nallagondalla/Agentic_Ai_Practice.git
+   git clone https://github.com/Monish-Nallagondalla/Marketing-Data.git
    ```
 2. Navigate to the project directory and activate your virtual environment if necessary.
    ```bash
-   cd Agentic_Ai_Practice
+   conda create -p venv
    ```
 3. Install the required dependencies:
    ```bash
